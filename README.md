@@ -18,7 +18,7 @@
 ahmed = {
     "name": "Ahmed Ibrahim",
     "education": "B.Sc. Computer Science - Zagazig University",
-    "role": "Junior Data Analyst",
+    "role": "Data Analyst",
     "location": "Egypt 🇪🇬",
     "learning": [
         "Power BI",
