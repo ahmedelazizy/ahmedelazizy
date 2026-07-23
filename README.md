@@ -110,13 +110,17 @@ ahmed = {
 
 ---
 
-# 🎯 Currently
+# 🚀 Current Focus
 
-- 📊 Building professional Power BI Dashboards
-- 🗄️ Practicing SQL & Database Design
-- 🐍 Improving Python for Data Analysis
-- 🤖 Learning Machine Learning
-- 🚀 Expanding my Data Analytics Portfolio
+- 📊 Data Analysis
+- 🗄️ SQL & Database Design
+- ⚙️ ETL & Data Warehousing
+- 📈 Statistics & Business Analytics
+- 🤖 Machine Learning
+- 🧠 Deep Learning & AI
+- ☁️ Cloud Data Platforms
+- 🏗️ Data Engineering
+- 🚀 Building End-to-End Data Science Projects
 
 ---
 
@@ -124,11 +128,11 @@ ahmed = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmed-ibrahim-b748b931b)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/ahmedelazizy)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedelazizy480@gmail.com)
 
 </div>
 
