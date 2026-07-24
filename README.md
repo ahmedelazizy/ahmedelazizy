@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+Ibrahim+%F0%9F%91%8B;Computer+Science+Student;Junior+Data+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+C%2B%2B;Turning+Data+Into+Insights+%F0%9F%93%8A;Always+Learning+Something+New+%F0%9F%9A%80)](https://github.com/ahmedelazizy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+Ibrahim+%F0%9F%91%8B;Computer+Science+Student;Data+Analyst;Power+BI+%7C+SQL+%7C+Python+%7C+C%2B%2B;Turning+Data+Into+Insights+%F0%9F%93%8A;Always+Learning+Something+New+%F0%9F%9A%80)](https://github.com/ahmedelazizy)
 
 </div>
 
